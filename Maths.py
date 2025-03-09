@@ -1,0 +1,10 @@
+import math
+print(min(1,2,3,4,5,6,7,8,9,10,))
+print(max(1,2,3,4,5,6,7,8,9,10,))
+print(abs(-6.56))
+print(pow(2,3))
+print(pow(2,4))
+print(math.sqrt(64))
+print(math.sqrt(16))
+print(math.sqrt(123456789))
+print(math.pi)
